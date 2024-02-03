@@ -4,7 +4,7 @@ This web scraping exercise is intended to extract information from a website and
 
 <img width="411" alt="image" src="https://github.com/dataphoric/Web-Data-Extraction-Scraper/assets/143677328/02feea26-160a-427b-abc6-fdaed1b1fb00">
 
-# ToolsMethology
+# Tools
 The tools used include:
 	Name	Description
 1	BeautifulSoup	Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with parsers to provide ways of navigating, searching, and modifying the parse tree.
